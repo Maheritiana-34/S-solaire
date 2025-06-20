@@ -4,6 +4,14 @@ body{
   overflow: hidden;
 }
 
+h1{
+  position: absolute;
+  top: 10px;
+  left: 35%;
+  font-style: italic;
+  font-size: 40px;
+  color: blue;
+}
 .espace{
   width: 100vw;
   height: 100vh;
